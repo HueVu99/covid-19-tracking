@@ -1,16 +1,20 @@
-# Medical Pager Chat App
+# fullstack-graphql-airbnb-clone
+A Fullstack GraphQL Airbnb Clone with React and React Native
 
-![Chat Application](https://i.ibb.co/hsvcw4V/image.png)
+## Road map
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+1. Website register/login
+2. Deploy backend and frontend
+3. App register/login
+4. Website and App forgot password
+5. Website and App create listing
+6. Website and App view listings
+7. Website and App chat
+8. Feature requests
 
-In this video, we will create a full Realtime Chat Application. We're going to use React on the front end, NodeJS on the back end and the entire chat is powered with https://gstrm.io/js-mastery.
+## Notes
 
-By the end of this video, you will be able to build any real-time chat application you can think of.
+- Typescript
+- Ant Design
 
-Setup:
-- run ```npm i && npm start``` for both client and server side to start the development server
-
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://javascriptmastery.eo.page/mailing-list.
+Playlist: https://www.youtube.com/playlist?list=PLN3n1USn4xlnfJIQBa6bBjjiECnk6zL6s
