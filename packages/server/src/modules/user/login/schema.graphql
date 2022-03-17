@@ -1,8 +1,0 @@
-type LoginResponse {
-  errors: [Error!]
-  sessionId: String
-}
-
-type Mutation {
-  login(email: String!, password: String!): LoginResponse!
-}

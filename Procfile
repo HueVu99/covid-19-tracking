@@ -1,1 +1,1 @@
-web: cd packages/server && node dist/server/src/index.js
+web:    java $JAVA_OPTS -jar target/dependency/webapp-runner.jar --port $PORT target/*.war

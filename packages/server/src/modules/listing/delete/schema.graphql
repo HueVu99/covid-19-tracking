@@ -1,3 +1,0 @@
-type Mutation {
-  deleteListing(id: String!): Boolean!
-}
